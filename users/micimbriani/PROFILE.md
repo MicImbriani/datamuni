@@ -1,0 +1,1 @@
+Hi, I'm Mic Imbriani and I'm a final year Computer Science UG at University of York, England. I've been studying Machine Learning for almost 3 years now, and I wish to provide anyone with an interest in ML a way to start gathering knowledge in an accessible and "no-crap" way.
